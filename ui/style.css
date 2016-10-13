@@ -1,6 +1,6 @@
 body {
     font-family: sans-serif;
-    background-color: darkred;
+    background: linear-gradient( -90deg , darkred, #a64131, darkred);
     margin-top: 75px;
 }
 
